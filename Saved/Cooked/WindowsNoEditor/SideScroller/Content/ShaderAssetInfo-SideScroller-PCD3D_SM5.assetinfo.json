@@ -267,12 +267,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "719AB780A1912A1C4C1A7B1D5A158485B14842EC",
 			"Assets": [
 				"/Game/Mannequin/Character/Materials/M_Male_Body"
@@ -282,6 +276,13 @@
 			"ShaderMapHash": "B47CABED7A4537AAD9D04F5ACC70AD3D4BE7AE99",
 			"Assets": [
 				"/Game/Mannequin/Character/Materials/M_UE4Man_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "21FDE6A84D2593703C51C730FAE98D244F32DF09",
+			"Assets": [
+				"/Game/Materials/Icy",
+				"/Game/Materials/Greeny"
 			]
 		},
 		{
@@ -297,28 +298,27 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8E07362732161D2337820CD4FC8AB67570DC00A3",
+			"ShaderMapHash": "C0920F11F37034AAF610D4DFC92E115DAAA7C176",
 			"Assets": [
-				"/Game/GoodSky/Source/ArrowTool/M_GoodSky_Sun_Emissive"
+				"/Game/Materials/RingFire"
 			]
 		},
 		{
-			"ShaderMapHash": "414126054D0C57F57C997E8910A4252436CF189E",
+			"ShaderMapHash": "91DE17C6E475ECDDF7489C7E5E383B4ABAA600A8",
 			"Assets": [
-				"/Game/Materials/RedFire"
+				"/Game/Materials/Platform_3"
 			]
 		},
 		{
-			"ShaderMapHash": "92E3C5645374BF3DF95AC7DBF8A4B16539A563FC",
+			"ShaderMapHash": "66164CBD44E9C5236E7646C14F6FBD6623217E40",
 			"Assets": [
-				"/Game/Materials/Red_2",
-				"/Game/Materials/Red"
+				"/Game/Materials/Platform_2"
 			]
 		},
 		{
-			"ShaderMapHash": "28224F60E9ACBBAA9F917A6F419C4514A69B2F05",
+			"ShaderMapHash": "514D121A28EC2BE44C245B75E816B8F84DBBD271",
 			"Assets": [
-				"/Game/Materials/RingFire3"
+				"/Game/Materials/Platform"
 			]
 		},
 		{
@@ -331,6 +331,12 @@
 			"ShaderMapHash": "00ACD0B43BEB9AE01C373EBB8D2FFA362E9E34ED",
 			"Assets": [
 				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
 			]
 		},
 		{
@@ -364,6 +370,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8E07362732161D2337820CD4FC8AB67570DC00A3",
+			"Assets": [
+				"/Game/GoodSky/Source/ArrowTool/M_GoodSky_Sun_Emissive"
+			]
+		},
+		{
 			"ShaderMapHash": "8E33CB0553B2B9C3A290A501ECE236993D8E5A5C",
 			"Assets": [
 				"/Game/GoodSky/Source/ArrowTool/M_GoodSky_SkyRing_"
@@ -379,6 +391,30 @@
 			"ShaderMapHash": "38FFF5E6924180C4FC83F3F595221558F7E2D980",
 			"Assets": [
 				"/Game/Materials/Firey"
+			]
+		},
+		{
+			"ShaderMapHash": "414126054D0C57F57C997E8910A4252436CF189E",
+			"Assets": [
+				"/Game/Materials/RedFire"
+			]
+		},
+		{
+			"ShaderMapHash": "C483F5D80EE9C30EBA41F6AEDBB4D9A0834DC428",
+			"Assets": [
+				"/Game/Materials/Red_2"
+			]
+		},
+		{
+			"ShaderMapHash": "28224F60E9ACBBAA9F917A6F419C4514A69B2F05",
+			"Assets": [
+				"/Game/Materials/RingFire3"
+			]
+		},
+		{
+			"ShaderMapHash": "F1DD44F6A165A678E64311BE640CCE2A318E67EC",
+			"Assets": [
+				"/Game/Materials/SlantStairs"
 			]
 		},
 		{
@@ -412,12 +448,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F1DD44F6A165A678E64311BE640CCE2A318E67EC",
-			"Assets": [
-				"/Game/Materials/SlantStairs"
-			]
-		},
-		{
 			"ShaderMapHash": "6A1388CF3FDA4F40779954AFE629D91C42C966B0",
 			"Assets": [
 				"/Game/Materials/Rocky"
@@ -436,15 +466,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C0920F11F37034AAF610D4DFC92E115DAAA7C176",
+			"ShaderMapHash": "92E3C5645374BF3DF95AC7DBF8A4B16539A563FC",
 			"Assets": [
-				"/Game/Materials/RingFire"
-			]
-		},
-		{
-			"ShaderMapHash": "78341FB1F8F5F721CBE9A785DA8A5AE7A3D0661D",
-			"Assets": [
-				"/Game/Materials/Platform"
+				"/Game/Materials/Red"
 			]
 		},
 		{
@@ -457,13 +481,6 @@
 			"ShaderMapHash": "5558532C15914C109C847A171119729CEFFCDD07",
 			"Assets": [
 				"/Game/Materials/Lava"
-			]
-		},
-		{
-			"ShaderMapHash": "21FDE6A84D2593703C51C730FAE98D244F32DF09",
-			"Assets": [
-				"/Game/Materials/Icy",
-				"/Game/Materials/Greeny"
 			]
 		},
 		{
